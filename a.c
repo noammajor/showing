@@ -1,5 +1,6 @@
-void bar()
+int bar()
 {
+	return 5;
 }
 
 void foo()
